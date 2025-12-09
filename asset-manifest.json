@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c95b636f.css",
+    "main.js": "/static/js/main.c09b3744.js",
+    "static/media/rb_9153.png": "/static/media/rb_9153.77db3a2dedf9d0bf9d84.png",
+    "static/media/login-screen-banner.jpg": "/static/media/login-screen-banner.2534501f50e013312932.jpg",
+    "static/media/pt.png": "/static/media/pt.ba48b943188de3611667.png",
+    "static/media/ff.jpg": "/static/media/ff.805fb02d6a56bcc81de0.jpg",
+    "static/media/cc.jpg": "/static/media/cc.2e1cd96d957578c4cf8a.jpg",
+    "static/media/bb.jpg": "/static/media/bb.8f12572e4e91a37cb153.jpg",
+    "static/media/instagram.png": "/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/ee.webp": "/static/media/ee.ed94a25b7b0f3e4608fd.webp",
+    "static/media/dd.webp": "/static/media/dd.5fff0808ca808233e613.webp",
+    "static/media/aa.webp": "/static/media/aa.85853ee247e074f82579.webp",
+    "static/media/app_logo.jpg": "/static/media/app_logo.2164672d779d99e88708.jpg",
+    "static/media/telegram.png": "/static/media/telegram.e9722f26cc228e817986.png",
+    "static/media/twitter.png": "/static/media/twitter.93ac3f9a344ecd5d01a4.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.1dd8ca2765f1f177ab22.png",
+    "static/media/facebook.png": "/static/media/facebook.49e67d43221b6bb1aa86.png",
+    "static/media/rt.jpg": "/static/media/rt.502c8f37d68adfe5e958.jpg",
+    "static/media/allimage.jpg": "/static/media/allimage.cf1b4ce22ab3e291d6e0.jpg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.c95b636f.css",
+    "static/js/main.c09b3744.js"
+  ]
+}

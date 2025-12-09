@@ -1,0 +1,19 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+# Allow all crawlers access to the main website pages
+Allow: /admin/
+Allow: /login/
+Allow: /signup/
+Allow: /checkout/
+Allow: /user-data/
+Allow: /api/
+
+# Allow access to specific pages
+Allow: /classes/
+Allow: /questions/
+Allow: /rewards/
+Allow: /about/
+Allow: /contact/
+
+# Sitemap location
+Sitemap: https://bcompetition.com/sitemap.xml
